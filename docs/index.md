@@ -42,7 +42,7 @@ __OR__
 You will be able to see Calulator GUI as below - 
 
 
-![Calculator GUI](calculator_gui.png)
+![Calculator GUI](../Simple_Calculator_GUI.png)
 
 
 The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only! 
