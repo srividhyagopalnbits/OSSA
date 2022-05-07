@@ -1,6 +1,5 @@
 # OSSA
-OpenSourceSoftwareAssignment
-
+## OpenSource Software Assignment 4: Contributing to Open Source Software
 ## Project: Simple Calculator In GUI Python With Source Code
 
 This Simple Calculator In GUI is a simple project developed using Python. The project contains the numbers, operators, and signs like on a normal calculator. Here, the user can just click on the numbers they want in the calculations. Hence, the user can use a simple calculator from this application.
