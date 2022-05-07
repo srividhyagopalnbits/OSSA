@@ -26,10 +26,16 @@ To run this project, you must have installed Python on your PC. After downloadin
  
 **Step1:** Extract/Unzip the file
 
-**Step2:** Go inside the project folder, open cmd then type calculator_gui.py and enter to start the system.
+**Step2:** Go inside the project folder, open cmd then type `python calculator_gui.py` and enter to start the system.
 
 __OR__
 
 **Step2:** Simply, double-click the calculator_gui.py file and you are ready to go.
+
+You will be able to see Calulator GUI as below - 
+
+
+![Calculator GUI](calculator_gui.png)
+
 
 The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only! 
