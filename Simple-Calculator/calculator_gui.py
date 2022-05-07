@@ -12,18 +12,16 @@ def button(source, side, text, command=None):
     storeObj.pack(side=side, expand=YES, fill=BOTH)
     return storeObj
 
-
+#this is my first commit to verify the steps which I doing is correct or not.
 class app(Frame):
     def __init__(self):
         Frame.__init__(self)
-        self.option_add('*Font', 'calibri 20 bold')
+        self.option_add('*Font', 'calibri 25 bold')
         self.pack(expand=YES, fill=BOTH)
         self.master.title('Simple Calculator')
 
         display = StringVar()
         Entry(self, relief=RIDGE, textvariable=display,
-              justify='right', bd=30, bg="white").pack(side=TOP, expand=YES, fill=BOTH)
-
 
         for clearButton in (["C"]):
             erase = iCalc(self, TOP)

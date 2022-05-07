@@ -29,4 +29,5 @@ You will be able to see Calulator GUI as below -
 ![Calculator GUI](../calculator_gui.png)
 
 
-The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only! 
+The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only!
+Simple calculator project is part of OSSE assignment no. 4 
