@@ -38,3 +38,4 @@ You will be able to see Calulator GUI as below -
 
 
 The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only! 
+This submission is part of a Open Soruce Software engineering course project
