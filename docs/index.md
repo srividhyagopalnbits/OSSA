@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Project Name:  OSSA
+## OpenSource Software Assignment 4: Contributing to Open Source Software
+## Project: Simple Calculator In GUI Python With Source Code By Group 14
 
-You can use the [editor on GitHub](https://github.com/srividhyagopalnbits/OSSA/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Team Members:
+1. Balavignesh Premkumar, 2021MT93033@wilp.bits-pilani.ac.in
+2. Kannan V , 021mt93058@wilp.bits-pilani.ac.in
+3. Shayar Choksi, 2021mt93054@wilp.bits-pilani.ac.in
+4. SHIKHAR AGARWAL, 2021mt93053@wilp.bits-pilani.ac.in
+5. SRIVIDHYA, 2021mt93226@wilp.bits-pilani.ac.in
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This Simple Calculator In GUI is a simple project developed using Python. The project contains the numbers, operators, and signs like on a normal calculator. Here, the user can just click on the numbers they want in the calculations. Hence, the user can use a simple calculator from this application.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project file contains a python script (calculator_gui.py). This is a simple GUI-base project which is very easy to understand and use. 
 
-```markdown
-Syntax highlighted code block
+### About system
+This Simple Calculator In GUI project is in Python. Talking about the features of this system, this python application is designed to calculate entered numbers to any operations and it is not capable of handling all types of exceptions.
 
-# Header 1
-## Header 2
-### Header 3
+The app displays error message when dividing by 0
+Error message when pressing the = button
+Also, the design of this system is pretty simple so that the user won’t get any difficulties while working on it.
 
-- Bulleted
-- List
+### Prerequisite
 
-1. Numbered
-2. List
+Your host machine need to have python installed.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### How To Run The Project?
+To run this project, you must have installed Python on your PC. After downloading the project, follow the steps below:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+ 
+**Step1:** Extract/Unzip the file
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srividhyagopalnbits/OSSA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Step2:** Go inside the project folder, open cmd then type `python calculator_gui.py` and enter to start the system.
 
-### Support or Contact
+__OR__
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Step2:** Simply, double-click the calculator_gui.py file and you are ready to go.
+
+You will be able to see Calulator GUI as below - 
+
+
+![Calculator GUI](calculator_gui.png)
+
+
+The Simple Calculator In GUI Python With source code is free to download, Use for educational purposes only! 
