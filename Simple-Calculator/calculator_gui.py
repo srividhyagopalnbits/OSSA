@@ -2,7 +2,7 @@ from tkinter import *
 
 
 def iCalc(source, side):
-    storeObj = Frame(source, borderwidth=4, bd=4, bg="red")
+    storeObj = Frame(source, borderwidth=4, bd=4, bg="blue")# Change of color from red to blue on 07.05.22 by Kannann
     storeObj.pack(side=side, expand=YES, fill=BOTH)
     return storeObj
 
