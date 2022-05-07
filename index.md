@@ -1,8 +1,8 @@
-Contributors :
-2021MT93033@wilp.bits-pilani.ac.in
-2021mt93058@wilp.bits-pilani.ac.in
-2021mt93054@wilp.bits-pilani.ac.in
-2021mt93053@wilp.bits-pilani.ac.in
+## Contributors :
+- 2021MT93033@wilp.bits-pilani.ac.in
+- 2021mt93058@wilp.bits-pilani.ac.in
+- 2021mt93054@wilp.bits-pilani.ac.in
+- 2021mt93053@wilp.bits-pilani.ac.in
 
 
 ## Welcome to GitHub Pages
