@@ -16,7 +16,7 @@ def button(source, side, text, command=None):
 class app(Frame):
     def __init__(self):
         Frame.__init__(self)
-        self.option_add('*Font', 'calibri 20 bold')
+        self.option_add('*Font', 'calibri 25 bold')
         self.pack(expand=YES, fill=BOTH)
         self.master.title('Simple Calculator')
 
