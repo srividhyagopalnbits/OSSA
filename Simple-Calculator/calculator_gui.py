@@ -12,7 +12,7 @@ def button(source, side, text, command=None):
     storeObj.pack(side=side, expand=YES, fill=BOTH)
     return storeObj
 
-
+#this is my first commit to verify the steps which I doing is correct or not.
 class app(Frame):
     def __init__(self):
         Frame.__init__(self)
@@ -22,7 +22,7 @@ class app(Frame):
 
         display = StringVar()
         Entry(self, relief=RIDGE, textvariable=display,
-              justify='right', bd=30, bg="red").pack(side=TOP, expand=YES, fill=BOTH)
+              justify='left', bd=35, bg="blue").pack(side=TOP, expand=YES, fill=BOTH)
 
         for clearButton in (["C"]):
             erase = iCalc(self, TOP)
