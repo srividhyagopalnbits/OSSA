@@ -2,7 +2,7 @@ from tkinter import *
 
 
 def iCalc(source, side):
-    storeObj = Frame(source, borderwidth=4, bd=4, bg="blue")# Change of color from red to blue on 07.05.22 by Kannann
+    storeObj = Frame(source, borderwidth=4, bd=4, bg="blue")#Change of color from red to blue on 07.05.22 by Kannann
     storeObj.pack(side=side, expand=YES, fill=BOTH)
     return storeObj
 
@@ -22,7 +22,7 @@ class app(Frame):
 
         display = StringVar()
         Entry(self, relief=RIDGE, textvariable=display,
-              justify='right', bd=30, bg="red").pack(side=TOP, expand=YES, fill=BOTH)
+              justify='right', bd=30, bg="blue").pack(side=TOP, expand=YES, fill=BOTH)#Change of color from red to blue on 07.05.22 by Kannann
 
         for clearButton in (["C"]):
             erase = iCalc(self, TOP)
