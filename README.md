@@ -1,4 +1,4 @@
-# OSSA
+## Project Name:  OSSA
 ## OpenSource Software Assignment 4: Contributing to Open Source Software
 ## Project: Simple Calculator In GUI Python With Source Code
 
