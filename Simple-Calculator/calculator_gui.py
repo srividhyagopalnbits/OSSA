@@ -2,7 +2,7 @@ from tkinter import *
 
 
 def iCalc(source, side):
-    storeObj = Frame(source, borderwidth=4, bd=4, bg="red")
+    storeObj = Frame(source, borderwidth=4, bd=4, bg="black")
     storeObj.pack(side=side, expand=YES, fill=BOTH)
     return storeObj
 
@@ -16,13 +16,12 @@ def button(source, side, text, command=None):
 class app(Frame):
     def __init__(self):
         Frame.__init__(self)
-        self.option_add('*Font', 'arial 20 bold')
+        self.option_add('*Font', 'calibri 20 bold')
         self.pack(expand=YES, fill=BOTH)
-        self.master.title('Calculator')
+        self.master.title('Simple Calculator')
 
         display = StringVar()
         Entry(self, relief=RIDGE, textvariable=display,
-              justify='left', bd=35, bg="blue").pack(side=TOP, expand=YES, fill=BOTH)
 
         for clearButton in (["C"]):
             erase = iCalc(self, TOP)
