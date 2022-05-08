@@ -22,6 +22,7 @@ class app(Frame):
 
         display = StringVar()
         Entry(self, relief=RIDGE, textvariable=display,
+            justify='right', bd=30, bg="white").pack(side=TOP, expand=YES, fill=BOTH)
 
         for clearButton in (["C"]):
             erase = iCalc(self, TOP)
