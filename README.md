@@ -17,11 +17,6 @@ Also, the design of this system is pretty simple so that the user won’t get an
 
 Your host machine need to have python installed.
 
-Download Python at: https://www.python.org/downloads/
-This project uses Python's internal packages. So extra dependencies are not needed.
-
-In the future to make any changes, you can introduce dependencies and accordingly update the requirements.txt file.
-
 
 ### How To Run The Project?
 To run this project, you must have installed Python on your PC. After downloading the project, follow the steps below:
